@@ -40,7 +40,7 @@
     "path": "^0.12.7",
     "pdfkit": "^0.10.0",
     "pdfmake": "^0.1.57",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "rate-limiter-flexible": "^1.1.6",
     "validator": "^10.8.0",
     "winston": "^2.3.1",
