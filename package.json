@@ -42,7 +42,7 @@
     "pdfmake": "^0.1.57",
     "pug": "^2.0.4",
     "rate-limiter-flexible": "^1.1.6",
-    "validator": "^10.8.0",
+    "validator": "^13.7.0",
     "winston": "^2.3.1",
     "written-number": "^0.9.1"
   },
